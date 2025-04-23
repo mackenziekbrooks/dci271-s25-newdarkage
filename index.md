@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: ""
 permalink: /
 ---
 
@@ -28,13 +28,12 @@ We do have an [ebook](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/r
 
 If you have any trouble finding this book, please let me know! 
 
-
  
 # Policies 
 
 ## Grading
 
-
+Spec
 
 
 ## Accommodations
@@ -42,16 +41,14 @@ I am committed to ensuring access to course content for all students. Reasonable
 
 If you have already been approved for accommodations, please meet with me within the first two days of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
 
-Captions for recorded lectures can be viewed through YuJa or using the Powerpoint Subtitles feature. 
 
 ## Plagiarism & AI Policy
-All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
 
-In this course, you should only use generative AI tools (this includes Grammarly, ChatGPT, Claude) when explicitly specified in the assignment or activity instructions. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Please cite the tool according to the guidelines for citing computer software, as outlined in the designated style guide. Additionally, please include a brief description of how you used the tool.
+All work in this course should be your own or properly attributed to sources used. For more info, check out [the library's guide to plagiarism](http://libguides.wlu.edu/plagiarism).
 
-It is your responsibility — not the tool’s — to assure the quality, integrity, and accuracy of work you submit in any college course.
-Misuse or unauthorized usage of generative AI tools may constitute an Honor Violation, which can be further expounded in the White Book. Please communicate with me if there is any confusion regarding its usage for assignments, assessments, or any other coursework.
-Please maintain integrity, for your learning, your personal character, and academic record.
+We will be discussing and potentially using generative AI tools in class. However, you may only use these tools when explicitly specified in the assignment or activity instructions and any use must be documented. This includes generative AI tools like ChatGPT, but also AI features within writing apps like Grammarly. Evidence of the use of generative AI will result in a failed assignment. 
+
+Because listen, I want to hear your voice! I want to know what *you* think. I am much less interested in a paper that "sounds right" than one that is authentic to you and shows how you're wrestling with a topic. 
 
 
 ## License

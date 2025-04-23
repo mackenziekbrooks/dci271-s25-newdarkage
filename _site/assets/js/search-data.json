@@ -1,249 +1,340 @@
 {"0": {
     "doc": "Assignments",
+    "title": "Cognitive Skills + Grading",
+    "content": "This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We’ll discuss and reference these skills throughout the course. Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. Systems thinking . Meta-cognition. ",
+    "url": "/assignments/#cognitive-skills--grading",
+    
+    "relUrl": "/assignments/#cognitive-skills--grading"
+  },"1": {
+    "doc": "Assignments",
+    "title": "Grading",
+    "content": "We will use an adapted version of Specifications Grading, an alternative grading system. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technology we’ll be using/learning this term, to reduce grade anxiety, and to fit with our condensed four-week schedule. If you’d like to learn more, here’s a resource from UN-Lincoln. Each assignment will be worth 4-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it’s on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you’ll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, . |   | #1 Dead Tech | #2 Mapping | #3 Discussion | #4 Unessay | #5 Reflection | . | Information literacy | X |   | X | X | X | . | Systems thinking |   | X |   | X | X | . | Meta-cognition |   |   | X | X | X | . | Engagement | X | X | X | X |   | . ",
+    "url": "/assignments/#grading",
+    
+    "relUrl": "/assignments/#grading"
+  },"2": {
+    "doc": "Assignments",
     "title": "Assignment #1: Dead Tech",
-    "content": "In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Your findings will be compiled in a 700-1000 word essay, to be published on our course website. You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. A video introduction to this assignment is available on Canvas. ",
+    "content": "Due Tuesday 5/6 by 11:59am. In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology (broadly-defined) and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Be curious. Your findings will be compiled in a 800-1000 word essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. You are encouraged to include images or video (properly cited). Some questions to consider, though you don’t have to answer them all or in this order. I want the interesting stuff! . What is this item? Who invented it? How was it made? How widely was it adopted? Why was it cool back in the day? What materials were used? What did this piece of tech enable? How did it die? What is its legacy? Can you still use this tech today? Can you still find it? . ",
     "url": "/assignments/#assignment-1-dead-tech",
     
     "relUrl": "/assignments/#assignment-1-dead-tech"
-  },"1": {
+  },"3": {
     "doc": "Assignments",
-    "title": "Specs:",
-    "content": ". | This is a short research essay: 700-1000 words with 5-7 sources. It does not need to be fully argument-driven, but I encourage you to include your own conclusions about the forces at work in the lifecycle of your topic. | In addition to your essay, you will turn in a brief annotated bibliography. Your bibliography should use a citation standard (MLA, Chicago, etc), but I’m not picky about which one. Each entry in your bibliography should include 2+ sentences - one to summarize the resource, another to analyze it. Why is it useful? Why not? Who created it? Who is the audience? What makes it a reputable? If it’s not reputable, why does it have value for your essay? | Your essay will be posted on the course website using these instructions. | Turn in a link to your essay on Canvas for feedback. | . Due Friday 5/8 at 5:00pm EST. | Rubric | Points | . | Writing Your writing should be clear, concise, well-structured, and full of curiosity. | X | . | Use of media You are encouraged to include photos (your own or others’ with attribution), audio, or video. | X | . | Level of research You should cast a wide net with your sources. Include peer-reviewed resources, but also “grey literature” or popular sources. A manual? An old commercial on Youtube? | X | . | Annotated bibliography For each source in your essay, include a 2+ sentence annotation. One sentence should summarize the resource. Another sentence should analyze the resource. | X | . | Total | X | . ",
-    "url": "/assignments/#specs",
+    "title": "Prompt",
+    "content": ". | This is a short research essay: 800-1000 words with 5-7 sources. It does not need to be fully argument-driven, but I encourage you to include your own conclusions about the forces at work in the life of this piece of media. | Turn in on Canvas by 11:59am on Tuesday, May 6th. | Print out 4 copies of a full-size color picture of your piece of media (or bring in the object itself!) for our in-class activity. | . ",
+    "url": "/assignments/#prompt",
     
-    "relUrl": "/assignments/#specs"
-  },"2": {
+    "relUrl": "/assignments/#prompt"
+  },"4": {
+    "doc": "Assignments",
+    "title": "Skills:",
+    "content": ". | Information Literacy: In addition to your essay, you will turn in a brief annotated bibliography. Annotated bibliographies help you engage more deeply with your sources beyond just grabbing a relevant quotation and moving on. | Your bibliography should use a citation standard (MLA, Chicago, etc), but I’m not picky about which one. | Each entry in your bibliography should include 2+ sentences - one to summarize the resource, another to analyze it. Why is it useful? Why not? Who created it? Who is the audience? What makes it a reputable? If it’s not reputable, why does it have value for your essay? | Your sources should include at least 2 academic sources (published in a scholarly journal or book). You should cast a wide net with your sources. Try old catalogs, newspaper articles, advertisements, exhibits, manuals, etc. | . | Engagement: In addition to attending class and be an active participant, engagement for this assignment looks like: . | Presenting on your dead tech assignment in class | Participating in the curation activity | Drawing on ideas from our readings in your essay. | . | . ",
+    "url": "/assignments/#skills",
+    
+    "relUrl": "/assignments/#skills"
+  },"5": {
+    "doc": "Assignments",
+    "title": "Resources",
+    "content": ". | The Museum of Obsolete Media | Dead Media Project | Dead Media Archive | Media Archaeology Lab | Always Already New: Media, History, and the Data of Culture | Newspaper databases from the library | . ",
+    "url": "/assignments/#resources",
+    
+    "relUrl": "/assignments/#resources"
+  },"6": {
     "doc": "Assignments",
     "title": "Assignment #2: Mapping the Hidden Systems in the Landscape",
-    "content": "In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 3, you will identify 4-5 sites of material technology in the landscape and document it for the course website. You’ll place each site on a map so we can see the fuller picture of your local infrastructure. Your documentation should include photos, video, and 50-100 words that address the following questions: . | What made you notice this site? | Why did you select it? | What’s happening? | What is the technology at play? | Who owns the land and who is being serviced? | Who is benefiting and who is not? | How can you find out more information about this site? | What can’t you find and why? | . Originally, this assignment was going to be a scavenger hunt through campus and Rockbridge County. Since most of you are no longer on campus, this map has new potential! But it means you’ll have to conduct your own research and rely on local sources of information. I’ll walk you through some of the options in the video for this assignment, but consider the following: . | local newspapers | local property records | ask your family members or friends | local government meeting minutes or other documents | . Finally, go outside (if you can do so safely)! The goal of this assignment is to open your eyes to things in our surroundings that hidden in plain sight. ",
+    "content": "Due Tuesday, May 13th by 11:59am . In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local community. Armed with knowledge from our readings and guests in Week 2, you will identify a physical location where material technology exists (and hides) in the landscape. Your entry about this location will be added to a group map so we can see a fuller picture of our local infrastructure. ",
     "url": "/assignments/#assignment-2-mapping-the-hidden-systems-in-the-landscape",
     
     "relUrl": "/assignments/#assignment-2-mapping-the-hidden-systems-in-the-landscape"
-  },"3": {
-    "doc": "Assignments",
-    "title": "Specs",
-    "content": ". | On Slack, message me a Gmail address so I can share our Google Map with you. | Identify 4-5 locations and place them on our Google Map. You will need to create a new layer with your name as the name of the layer. I’ve started to create a “type” category for the places, but you’re welcome to add to that. In the description field, you can identify the site and include a link to your results on the course website. | You will write 50-100 words on each location answering the questions above. You can include photos, screenshots, video, or links to your sources, but you’re not required to include everything. | Add your write-ups to a new page on the course website to live in the Map section. We’ll see everyone’s locations in one map, but you’ll be able to click on each student’s page to read more about the sites in their area. Follow the same instructions for posting on the course website as you did in Assignment #1. | Turn in a link to your essay on Canvas for feedback. | . Due May 15th at 11:59pm EST. | Rubric | Points | . | Selection You thought carefully and creatively about the hidden sites of technology aroud you. | X | . | WritingYou wrote with clarity about your locations. | X | . | MapYou followed the conventions of our shared map. You created a layer in your name and are using the type field. | X | . | Research You took your research skills to the next level by going beyond the first page of results on Google. | X | . | Total | X | . ",
-    "url": "/assignments/#specs-1",
-    
-    "relUrl": "/assignments/#specs-1"
-  },"4": {
-    "doc": "Assignments",
-    "title": "Assignment #3: New Metaphors Unessay",
-    "content": "In New Dark Age, Bridle calls for “new metaphors: a metalanguage for describing the world that complex systems have wrought.” For instance, we’ve learned the reasons why “cloud” is an insufficient metaphor for the physical network it represents. We’ve seen examples of other metaphors created by companies and theorists. And we’ve seen visualizations of these metaphors from artists and others (I like Dan Nott’s personally). In this assignment, you will be challenged to come up with your own new metaphor for a modern technological artifact or phenomenon of your choosing. The form of this assignment will be the “unessay.” You will decide, with the help of the class, the best presentation for your new metaphor, so long as it is compelling and effective. While we don’t do a formal proposal process, let’s chat through your ideas as soon as you’re ready. Feeling uninspired? Check out these examples from a course called “Technologies of Text” by Prof. Ryan Cordell. ",
-    "url": "/assignments/#assignment-3-new-metaphors-unessay",
-    
-    "relUrl": "/assignments/#assignment-3-new-metaphors-unessay"
-  },"5": {
-    "doc": "Assignments",
-    "title": "Specs:",
-    "content": ". | You are free to choose a topic on whatever interests or inspires you - the only limit is that it should be a new metaphor for technology. | You are free to present it in any way you please. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? | However, you must be able to capture your product in a way that can be experienced virtually and shared with the class. This can be through photos, video, audio, etc. Post your results on the course website as you’ve done for previous assignments, using the tag “unessay.” | Since normally I’d ask you to present your work in class, please provide a paragraph of explanation on your website post. Think about this as an artist’s statement for your work. It should set some context for your work and describe your motivations for choosing this new metaphor. | There is a section in YuJa/Canvas to upload your unessays if it’s in a file format that doesn’t translate easily to the course website. | Turn in a link to your unessay post on Canvas for feedback. | . Due Friday 5/21 at 5:00pm EST . | The rubric for this assignment is: how compelling and effective were you? Here’s what create Prof. Daniel Paul O’Donnell says about this rubric: | . An unessay is compelling when it shows some combination of the following: . | it is as interesting as its topic and approach allows | it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored) | it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented) | . In terms of presentation, an unessay is effective when it shows some combination of these attributes: . | it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation) | it is appropriate (i.e. it uses a format and medium that suits its topic and approach) | it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions). | . ",
-    "url": "/assignments/#specs-2",
-    
-    "relUrl": "/assignments/#specs-2"
-  },"6": {
-    "doc": "Assignments",
-    "title": "Assignment #4: Reflection",
-    "content": "We covered a lot of ground in this course (and quickly!). This is your chance to process what you’ve learned. How has your relationship with technology changed? How do you see the world differently? Where do you see opportunities for agency and justice amidst our complex technological systems? Reflections should be 600-900 words. ",
-    "url": "/assignments/#assignment-4-reflection",
-    
-    "relUrl": "/assignments/#assignment-4-reflection"
   },"7": {
     "doc": "Assignments",
-    "title": "Specs:",
-    "content": ". | Your reflection will just be read by me (though I encourage you to share your thoughts with your classmates on Slack). | Turn in a document in Canvas. | You should address some combination of the following questions: . | What did you learn in this course? What do you predict will stick with you in the coming months/years? | Thinking back to a few weeks ago, how have you changed your view of technology? How has your own relationship with technology changed? In good or bad ways? | What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people? | How has this virtual classroom experience affected your ability to learn, especially for this topic? | . | . Due Friday 5/21 at 5:00pm EST . ",
-    "url": "/assignments/#specs-3",
+    "title": "Prompt:",
+    "content": ". | A 300-500 word description of the site that answers the following: . | What is this? What is happening now or what was happening? | What is the technology at play? | Who owns the land and who is being serviced? | Who is benefiting and who is not? | How can you find out more information about this site? | What can’t you find and why? | What made you notice this site? | Why did you select it? | . | Include photos and video and any sources you used to learn more. | Uploaded to Canvas on Tuesday, May 13 at 11:59am. | You should also add a line to our spreadsheet to populate the map. Us this as a way to track who is working on what. | . ",
+    "url": "/assignments/#prompt-1",
     
-    "relUrl": "/assignments/#specs-3"
+    "relUrl": "/assignments/#prompt-1"
   },"8": {
     "doc": "Assignments",
+    "title": "Skills",
+    "content": ". | Systems thinking: In this assignment, you can demonstrate systems thinking by addressing the following questions: . | How does W&amp;L fit into its community? | How can you connect the local to the global? | How does our local context shape the technology around us? | . | Engagement: In addition to attending class and be an active participant, engagement for this assignment looks like: . | Asking a question of our guest speaker. | Creativity in selecting a site for the map. | Exercising your new research skills in finding information about your site. | Sharing about your selected site in class. | . | . ",
+    "url": "/assignments/#skills-1",
+    
+    "relUrl": "/assignments/#skills-1"
+  },"9": {
+    "doc": "Assignments",
+    "title": "Resources",
+    "content": ". | Rockbridge County GIS | Lexington City GIS | County committee minutes and Lexington city minutes | Vintage Aerial and Historic Aerials | W&amp;L Digital Archive | Local history sources include: Proceedings of the Rockbridge Historical Society, Rockbridge Epilogues, [ | Virginia Chronicle newspaper search | . ",
+    "url": "/assignments/#resources-1",
+    
+    "relUrl": "/assignments/#resources-1"
+  },"10": {
+    "doc": "Assignments",
+    "title": "Assignment #3: Discussion Lead!",
+    "content": "Due May 14, 15, or 20 during class . Your turn to lead class! Since there are a few chapters in New Dark Age that we’re not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for one hour. While you should plan to briefly cover the content of the chapter, I’m also very interested in the connections between this chapter and current events or topics that are present in your lives. You can ask your fellow students to do some additional reading before class. The chapters to covered are: . | 4 Calculation - computation, big data, statistic, science | 7 Complicity - national security, global, surveillance | 8 Conspiracy - conspiracy theories | 9 Concurrency - weird YouTube videos for kids | . ",
+    "url": "/assignments/#assignment-3-discussion-lead",
+    
+    "relUrl": "/assignments/#assignment-3-discussion-lead"
+  },"11": {
+    "doc": "Assignments",
+    "title": "Prompt",
+    "content": ". | Design and deliver a 50-60 minute lesson plan based in one assigned chapter from our core text. | Submit 1 page lesson plan 24 hours before class time for feedback by Prof. Brooks via Canvas or in person. | Keep summary/lecture of chapter to a minimum. | Include discussion prompts and activities. | Select at least one additional reading for your classmates. | . ",
+    "url": "/assignments/#prompt-2",
+    
+    "relUrl": "/assignments/#prompt-2"
+  },"12": {
+    "doc": "Assignments",
+    "title": "Skills",
+    "content": ". | Information Literacy: In this assignment, you can demonstrate this skill by: . | Identifying and selecting a relevant, interesting reading(s). | Connecting the New Dark Age chapter to current events or phenomena. | Thinking critically about the sources used by Bridle or other authors. | . | Meta-cognition: In this assignment, you can demonstrate this skill by: . | Attending to how learning works in your lesson plan. | Considering how you as a student/citizen/future professional are situated within the context of the chapter. | . | Engagement: In this assignment, you can demonstrate this skill by: . | Allowing all group members to have a chance to shine. | Designing activities that fully engage your classmates in the learning process. | . | . ",
+    "url": "/assignments/#skills-2",
+    
+    "relUrl": "/assignments/#skills-2"
+  },"13": {
+    "doc": "Assignments",
+    "title": "Resources:",
+    "content": ". | 9 Alternatives to Lecturing | Active Learning Techniques | Active Learning | Kahoot or Poll Everywhere | ResearchBuzz aggregates tech news | Recompiler Magazine | . ",
+    "url": "/assignments/#resources-2",
+    
+    "relUrl": "/assignments/#resources-2"
+  },"14": {
+    "doc": "Assignments",
+    "title": "Assignment #4: New Metaphors Unessay",
+    "content": "Due Thursday, May 22nd at 1:30pm . In New Dark Age, Bridle calls for “new metaphors: a metalanguage for describing the world that complex systems have wrought.” We’ve learned the reasons why “cloud” is an insufficient metaphor for the physical network it represents. We’ve seen examples of other metaphors created by companies and theorists. And we’ve seen visualizations of these metaphors from artists and others (I like Dan Nott’s personally). In this assignment, you will be challenged to come up with your own new metaphor for a modern technological artifact or phenomenon of your choosing. The form of this assignment will be the “unessay.” You will decide, with the help of the class, the best presentation for your new metaphor, so long as it is compelling and effective. While we don’t do a formal proposal process, let’s chat through your ideas as soon as you’re ready. Feeling uninspired? Check out these examples from a course called “Technologies of Text” by Prof. Ryan Cordell. ",
+    "url": "/assignments/#assignment-4-new-metaphors-unessay",
+    
+    "relUrl": "/assignments/#assignment-4-new-metaphors-unessay"
+  },"15": {
+    "doc": "Assignments",
+    "title": "Prompt",
+    "content": ". | Select a modern technological artifact or phenomenon and design a new metaphor for that thing. You are free to choose a topic on whatever interests or inspires you, though you will be asked to consult with Prof. Brooks just to check that you’re in the right zone. | Present your new metaphor in a form that makes sense for you, your skills, and your metaphor. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? I will be sad if a five paragraph essay is what you come up with though. | You will present your unessay on the last day of class (5-7 minutes). | . ",
+    "url": "/assignments/#prompt-3",
+    
+    "relUrl": "/assignments/#prompt-3"
+  },"16": {
+    "doc": "Assignments",
+    "title": "Skills",
+    "content": ". | Information literacy: In this assignment, you can demonstrate this skill by: . | demonstrate engagement with other thinkers on your topic. | conduct research and use findings to create new knowledge in the form of your metaphor. | . | Systems thinking: In this assignment, you can demonstrate this skill by: . | considering the big and small, the short and the long. | recognizing complexity of your topic. | “addresses the reality of a world in which people, politics, culture, and technology are utterly enmeshed.” (Bridle 5) | . | Meta-cognition: In this assignment, you can demonstrate this skill by: . | “embrace the unknowning” that is the limits of your own knowledge and what is knowable. | showing change in your thinking over time. | . | Engagement: In this assignment, you can demonstrate this skill by: . | Presenting clearly and concisely about your unessay. | creatively choosing the form of your new metaphor. | . | . ",
+    "url": "/assignments/#skills-3",
+    
+    "relUrl": "/assignments/#skills-3"
+  },"17": {
+    "doc": "Assignments",
+    "title": "Resources:",
+    "content": ". | Campus Energy Use Dashboard | “Footpath for the People? A Zine Companion to a Data Quilt about the Appalachian Trail” zine | Play with your data | Critical Making in the Age of AI | . ",
+    "url": "/assignments/#resources-3",
+    
+    "relUrl": "/assignments/#resources-3"
+  },"18": {
+    "doc": "Assignments",
+    "title": "Assignment #5: Reflection",
+    "content": "Due Friday 5/23 at 5:00pm . We covered a lot of ground in this course (and quickly!). This is your chance to process what you’ve learned. How has your relationship with technology changed? How do you see the world differently? Where do you see opportunities for agency and justice amidst our complex technological systems? Reflections should be 600-900 words. ",
+    "url": "/assignments/#assignment-5-reflection",
+    
+    "relUrl": "/assignments/#assignment-5-reflection"
+  },"19": {
+    "doc": "Assignments",
+    "title": "Prompt",
+    "content": ". | Turn in a 600-900 word piece of writing in Canvas. | You should address some combination of the following questions: . | What did you learn in this course? What do you predict will stick with you in the coming months/years? | Thinking back to a few weeks ago, how have you changed your view of technology? How has your own relationship with technology changed? In good or bad ways? | What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people? | . | . ",
+    "url": "/assignments/#prompt-4",
+    
+    "relUrl": "/assignments/#prompt-4"
+  },"20": {
+    "doc": "Assignments",
+    "title": "Skills",
+    "content": ". | Systems thinking | Meta-cognition | Engagement | . ",
+    "url": "/assignments/#skills-4",
+    
+    "relUrl": "/assignments/#skills-4"
+  },"21": {
+    "doc": "Assignments",
     "title": "Assignments",
-    "content": " ",
+    "content": ". | Cognitive Skills + Grading . | Grading | . | Assignment #1: Dead Tech . | Prompt | Skills: | Resources | . | Assignment #2: Mapping the Hidden Systems in the Landscape . | Prompt: | Skills | Resources | . | Assignment #3: Discussion Lead! . | Prompt | Skills | Resources: | . | Assignment #4: New Metaphors Unessay . | Prompt | Skills | Resources: | . | Assignment #5: Reflection . | Prompt | Skills | . | . ",
     "url": "/assignments/",
     
     "relUrl": "/assignments/"
-  },"9": {
+  },"22": {
     "doc": "Home",
     "title": "Course Description",
     "content": "Are we living in a “New Dark Age?” Artist and writer James Bridle argues that the abundance of information intended to enlighten the world has, in practice, darkened it. This course will take a big picture look at the interconnected impact of technology on the world around us. Is it enough to learn to code or think computationally? Are we simply at the mercy of unstable and inevitable technological progress? How can we think and act with justice and agency in a world where there is too much to know? How can we uncover the hidden material traces of technology in our surroundings? Through research, hands-on assignments, and local trips, we will seek to understand what has led to our present technological moment and where we can go from here. We will cover topics such as climate change, e-waste, big data, algorithmic bias, and automation. Our goal will be to create new metaphors for understanding the systems around us. ",
     "url": "/#course-description",
     
     "relUrl": "/#course-description"
-  },"10": {
+  },"23": {
     "doc": "Home",
     "title": "Contact",
     "content": "Mackenzie Brooks // Associate Professor &amp; Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu . ",
     "url": "/#contact",
     
     "relUrl": "/#contact"
-  },"11": {
+  },"24": {
     "doc": "Home",
     "title": "Learning Objectives",
     "content": ". | Students will research historical and modern technological systems | Students will recognize hidden traces of technology in their surroundings. | Students will analyze relationships between technological forces. | Students will create new metaphors for describing the impact of technology on our social and physical world. | . ",
     "url": "/#learning-objectives",
     
     "relUrl": "/#learning-objectives"
-  },"12": {
+  },"25": {
     "doc": "Home",
     "title": "Required Text",
     "content": "Purchase: New Dark Age by James Bridle. This is the core text for the class, so I recommend finding a copy if you can. All other readings will be available online or through library subscriptions. We do have an ebook for this title available, but unfortunately it comes with a restrictive license. Only one person can access the book at a time. :( . If you have any trouble finding this book, please let me know! . ",
     "url": "/#required-text",
     
     "relUrl": "/#required-text"
-  },"13": {
+  },"26": {
     "doc": "Home",
     "title": "Policies",
     "content": " ",
     "url": "/#policies",
     
     "relUrl": "/#policies"
-  },"14": {
+  },"27": {
     "doc": "Home",
     "title": "Grading",
-    "content": " ",
+    "content": "Spec . ",
     "url": "/#grading",
     
     "relUrl": "/#grading"
-  },"15": {
+  },"28": {
     "doc": "Home",
     "title": "Accommodations",
-    "content": "I am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your individual needs and the accommodation process. More information can be found at https://www.wlu.edu/disability-accommodations/undergraduate-accommodations. If you have already been approved for accommodations, please meet with me within the first two days of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam. Captions for recorded lectures can be viewed through YuJa or using the Powerpoint Subtitles feature. ",
+    "content": "I am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your individual needs and the accommodation process. More information can be found at https://www.wlu.edu/disability-accommodations/undergraduate-accommodations. If you have already been approved for accommodations, please meet with me within the first two days of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam. ",
     "url": "/#accommodations",
     
     "relUrl": "/#accommodations"
-  },"16": {
+  },"29": {
     "doc": "Home",
     "title": "Plagiarism &amp; AI Policy",
-    "content": "All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism . In this course, you should only use generative AI tools (this includes Grammarly, ChatGPT, Claude) when explicitly specified in the assignment or activity instructions. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Please cite the tool according to the guidelines for citing computer software, as outlined in the designated style guide. Additionally, please include a brief description of how you used the tool. It is your responsibility — not the tool’s — to assure the quality, integrity, and accuracy of work you submit in any college course. Misuse or unauthorized usage of generative AI tools may constitute an Honor Violation, which can be further expounded in the White Book. Please communicate with me if there is any confusion regarding its usage for assignments, assessments, or any other coursework. Please maintain integrity, for your learning, your personal character, and academic record. ",
+    "content": "All work in this course should be your own or properly attributed to sources used. For more info, check out the library’s guide to plagiarism. We will be discussing and potentially using generative AI tools in class. However, you may only use these tools when explicitly specified in the assignment or activity instructions and any use must be documented. This includes generative AI tools like ChatGPT, but also AI features within writing apps like Grammarly. Evidence of the use of generative AI will result in a failed assignment. Because listen, I want to hear your voice! I want to know what you think. I am much less interested in a paper that “sounds right” than one that is authentic to you and shows how you’re wrestling with a topic. ",
     "url": "/#plagiarism--ai-policy",
     
     "relUrl": "/#plagiarism--ai-policy"
-  },"17": {
+  },"30": {
     "doc": "Home",
     "title": "License",
     "content": ". This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ",
     "url": "/#license",
     
     "relUrl": "/#license"
-  },"18": {
+  },"31": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"19": {
+  },"32": {
     "doc": "Schedule",
     "title": "Schedule",
-    "content": ". | Schedule | Week 1 - Chasm + Computation . | Tuesday, April 29, 2025 | Wednesday, April 30, 2025 | Thursday, May 1, 2025 | . | Week 2 - Climate + Complexity . | Tuesday, May 6, 2025 | Wednesday, May 7, 2025 | Thursday, May 8, 2025 | . | Week 3 - Cognition + etc. | Tuesday, May 13, 2025 | Wednesday, May 14, 2025 | Thursday, May 15, 2025 | . | Week 4 - Cloud + Conclusions . | Tuesday, May 20, 2025 | Wednesday, May 21, 2025 | Thursday, May 22, 2025 | . | . Legend Participate . Everything with this label are activities you should do on the day if possible. Discussion questions are meant to prompt conversation. You don’t have to answer every one, instead, look for ways to engage with the ideas of your classmates. Read/Watch . Readings and recorded lectures will appear with this label. They should be done on the day listed if possible. Reflect . Reflections are thinking/writing prompts that will not be turned in. I encourage you to take some time away from screen to your answers by hand. If you want some accountability or feedback, you can take a picture of your writing or copy and paste and send it to me directly on Slack. You could also send yourself a message on Slack! . Due . Red means an assignment is due! . ",
+    "content": "schedule shortcuts . | Schedule | Week 1 - Chasm + Computation . | Tuesday, April 29, 2025 | Wednesday, April 30, 2025 | Thursday, May 1, 2025 | . | Week 2 - Climate + Complexity . | Tuesday, May 6, 2025 | Wednesday, May 7, 2025 | Thursday, May 8, 2025 | . | Week 3 - Cognition + etc. | Tuesday, May 13, 2025 | Wednesday, May 14, 2025 | Thursday, May 15, 2025 | . | Week 4 - Cloud + Conclusions . | Tuesday, May 20, 2025 | Wednesday, May 21, 2025 | Thursday, May 22, 2025 | . | . ",
     "url": "/docs/schedule/",
     
     "relUrl": "/docs/schedule/"
-  },"20": {
+  },"33": {
     "doc": "Schedule",
     "title": "Week 1 - Chasm + Computation",
     "content": " ",
     "url": "/docs/schedule/#week-1---chasm--computation",
     
     "relUrl": "/docs/schedule/#week-1---chasm--computation"
-  },"21": {
+  },"34": {
     "doc": "Schedule",
     "title": "Tuesday, April 29, 2025",
-    "content": ". | Welcome, intros, etc. | Opening lecture + discussion | . Read for Wednesday: . | New Dark Age, chapter 1 | . ",
+    "content": ". | Welcome, intros, etc. | Icebreaker: what is your earliest memory of the internet? | Five minute paper: What is the new dark age? | Opening lecture + discussion | Break | What is the internet?! + coding 101 | . Read for Wednesday: . | New Dark Age, chapter 1 | . ",
     "url": "/docs/schedule/#tuesday-april-29-2025",
     
     "relUrl": "/docs/schedule/#tuesday-april-29-2025"
-  },"22": {
+  },"35": {
     "doc": "Schedule",
     "title": "Wednesday, April 30, 2025",
-    "content": ". | Discuss chapter 1 | Introduce Assignment #1 | . Read for Thursday: . | New Dark Age, chapter 2 | . ",
+    "content": ". | Icebreaker generator | Discuss chapter 1 | Introduce Assignment #1: Dead Tech | . For Thursday: . | Read New Dark Age, chapter 2 | Do some initial brainstorming and research for your essay topic. | . ",
     "url": "/docs/schedule/#wednesday-april-30-2025",
     
     "relUrl": "/docs/schedule/#wednesday-april-30-2025"
-  },"23": {
+  },"36": {
     "doc": "Schedule",
     "title": "Thursday, May 1, 2025",
     "content": ". | Discuss chapter 2 | Assignment #1 research + work | . Due . Assignment #1 due Tuesday, May 6 by 11:59am. Read for Tuesday: . | New Dark Age, chapter 5 | . ",
     "url": "/docs/schedule/#thursday-may-1-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-1-2025"
-  },"24": {
+  },"37": {
     "doc": "Schedule",
     "title": "Week 2 - Climate + Complexity",
     "content": " ",
     "url": "/docs/schedule/#week-2---climate--complexity",
     
     "relUrl": "/docs/schedule/#week-2---climate--complexity"
-  },"25": {
+  },"38": {
     "doc": "Schedule",
     "title": "Tuesday, May 6, 2025",
-    "content": ". | Assignment #1 sharing out | Discuss New Dark Age, chapter 5 | . ",
+    "content": ". | Assignment #1 sharing + curation activity (don’t forget to bring 4 copies of a picture of your dead tech) | Discuss New Dark Age, chapter 5 | GUEST LECTURE: 3:15-4:30 CTO David Saacke to give tour of RAP Center on W&amp;L Campus. | . ",
     "url": "/docs/schedule/#tuesday-may-6-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-6-2025"
-  },"26": {
+  },"39": {
     "doc": "Schedule",
     "title": "Wednesday, May 7, 2025",
-    "content": ". | Introduce Assignment #2 | . Read for Tuesday: . New Dark Age, chapter 3 . ",
+    "content": ". | Discuss readings + New Dark Age, chapter 5 | Introduce Assignment #2 | Train tour? Mural? | . Read for Tuesday: . New Dark Age, chapter 3 . ",
     "url": "/docs/schedule/#wednesday-may-7-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-7-2025"
-  },"27": {
+  },"40": {
     "doc": "Schedule",
     "title": "Thursday, May 8, 2025",
-    "content": ". | Discuss chapter 3 | Assignment #2 work | Visit from Ginny Johnson, Boxerwood/COREworks at 3pm | . Due . Assignment #2 due Tuesday, May 13 by 11:59am. Read for Tuesday: . New Dark Age, chapter 6 . ",
+    "content": ". | Discuss chapter 3 | Assignment #2 work | Introduce Assignment #3 + signups | Visit from Ginny Johnson, Boxerwood/COREworks at 3pm | . Due . Assignment #2 due Tuesday, May 13 by 11:59am. Read for Tuesday: . New Dark Age, chapter 6 . ",
     "url": "/docs/schedule/#thursday-may-8-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-8-2025"
-  },"28": {
+  },"41": {
     "doc": "Schedule",
     "title": "Week 3 - Cognition + etc.",
     "content": " ",
     "url": "/docs/schedule/#week-3---cognition--etc",
     
     "relUrl": "/docs/schedule/#week-3---cognition--etc"
-  },"29": {
+  },"42": {
     "doc": "Schedule",
     "title": "Tuesday, May 13, 2025",
-    "content": ". | Share out on Assignment #2 | AI/ML lecture + chapter 6 discussion | . ",
+    "content": ". | Share out on Assignment #2 | AI/ML lecture + chapter 6 discussion | Chat about Assignment #3. | . ",
     "url": "/docs/schedule/#tuesday-may-13-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-13-2025"
-  },"30": {
+  },"43": {
     "doc": "Schedule",
     "title": "Wednesday, May 14, 2025",
     "content": ". | Group 1 discussion leaders | Intro Assignment #4: Unessay | . ",
     "url": "/docs/schedule/#wednesday-may-14-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-14-2025"
-  },"31": {
+  },"44": {
     "doc": "Schedule",
     "title": "Thursday, May 15, 2025",
     "content": ". | Group 2 discussion leaders | Assignment #4 proposal + brainstorming | . ",
     "url": "/docs/schedule/#thursday-may-15-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-15-2025"
-  },"32": {
+  },"45": {
     "doc": "Schedule",
     "title": "Week 4 - Cloud + Conclusions",
     "content": " ",
     "url": "/docs/schedule/#week-4---cloud--conclusions",
     
     "relUrl": "/docs/schedule/#week-4---cloud--conclusions"
-  },"33": {
+  },"46": {
     "doc": "Schedule",
     "title": "Tuesday, May 20, 2025",
-    "content": ". | Group 3 discussion leaders | Group 4 discussion leaders | . ",
+    "content": ". | Group 3 discussion leaders | Group 4 discussion leaders | Unessay work | . ",
     "url": "/docs/schedule/#tuesday-may-20-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-20-2025"
-  },"34": {
+  },"47": {
     "doc": "Schedule",
     "title": "Wednesday, May 21, 2025",
-    "content": ". | Discuss New Dark Age, Chapter 10 | . Due . Assignment #4 due Thursday, May 22, at 11:59pm. ",
+    "content": ". | Discuss New Dark Age, Chapter 10 | Unessay work | . Due . Assignment #4 due Thursday, May 22, at 11:59pm. ",
     "url": "/docs/schedule/#wednesday-may-21-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-21-2025"
-  },"35": {
+  },"48": {
     "doc": "Schedule",
     "title": "Thursday, May 22, 2025",
     "content": ". | Last day! | Present unessays | . Due . Assignment #4 due Friday, May 23 by 11:59pm. ",

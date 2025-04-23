@@ -6,117 +6,223 @@ description:
 permalink: assignments/
 ---
 
+1. TOC
+{:toc}
+
+# Cognitive Skills + Grading
+
+This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We'll discuss and reference these skills throughout the course. 
+
+{: .highlight }
+Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning.
+
+{: .highlight }
+Systems thinking
+
+{: .highlight }
+Meta-cognition. 
+
+## Grading 
+
+We will use an adapted version of *Specifications Grading*, an alternative grading system. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technology we'll be using/learning this term, to reduce grade anxiety, and to fit with our condensed four-week schedule. If you'd like to learn more, here's [a resource from UN-Lincoln](https://teaching.unl.edu/resources/alternative-grading/specification-grading/).
+
+Each assignment will be worth 4-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it's on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you'll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, 
+
+||#1 Dead Tech|#2 Mapping|#3 Discussion|#4 Unessay|#5 Reflection|
+|Information literacy|X||X|X|X|
+|Systems thinking||X||X|X|
+|Meta-cognition|||X|X|X|
+|Engagement|X|X|X|X||
+
+
 # Assignment #1: Dead Tech 
 
-In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Your findings will be compiled in a 700-1000 word essay, to be published on our [course website](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/deadtech/). You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. A [video introduction](https://wlu.yuja.com/V/Video?z=1&u=2f8fbae0-0ec8-4913-aaf3-0a43c722dfa2&node=4022531&isPlaying=false&startTime=3) to this assignment is available on Canvas.  
-
-## Specs:
-* This is a short research essay: 700-1000 words with 5-7 sources. It does not need to be fully argument-driven, but I encourage you to include your own conclusions about the forces at work in the lifecycle of your topic. 
-* In addition to your essay, you will turn in a brief annotated bibliography. Your bibliography should use a citation standard (MLA, Chicago, etc), but I'm not picky about which one. Each entry in your bibliography should include 2+ sentences - one to summarize the resource, another to analyze it. Why is it useful? Why not? Who created it? Who is the audience? What makes it a reputable? If it's not reputable, why does it have value for your essay? 
-* Your essay will be posted on the course website using these [instructions](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/virtual.html#how-to-post-to-the-course-website). 
-* Turn in a link to your essay on Canvas for feedback. 
-
-Due Friday 5/8 at 5:00pm EST.
+Due Tuesday 5/6 by 11:59am.
 {: .label .label-red }
 
+In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a [media archaeologist](https://en.wikipedia.org/wiki/Media_archaeology). You will select a single piece of technology (broadly-defined) and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Be curious. Your findings will be compiled in a 800-1000 word essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. You are encouraged to include images or video (properly cited). Some questions to consider, though you don't have to answer them all or in this order. I want the interesting stuff! 
 
+> What is this item? Who invented it? How was it made? How widely was it adopted? Why was it cool back in the day? What materials were used? What did this piece of tech enable? How did it die? What is its legacy? Can you still use this tech today? Can you still find it? 
 
-|Rubric|Points|
-|--|--|
-|Writing <br /> Your writing should be clear, concise, well-structured, and full of curiosity. |X|
-|Use of media <br />You are encouraged to include photos (your own or others' with attribution), audio, or video.|X| 
-|Level of research <br /> You should cast a wide net with your sources. Include peer-reviewed resources, but also "grey literature" or popular sources. A manual? An old commercial on Youtube?   |X|
-|Annotated bibliography <br /> For each source in your essay, include a 2+ sentence annotation. One sentence should summarize the resource. Another sentence should analyze the resource.|X|
-|Total|	X|
+## Prompt
+* This is a short research essay: 800-1000 words with 5-7 sources. It does not need to be fully argument-driven, but I encourage you to include your own conclusions about the forces at work in the life of this piece of media. 
+* Turn in on Canvas by 11:59am on Tuesday, May 6th.
+* Print out 4 copies of a full-size color picture of your piece of media (or bring in the object itself!) for our in-class activity. 
+
+## Skills: 
+
+* *Information Literacy*: In addition to your essay, you will turn in a brief annotated bibliography. Annotated bibliographies help you engage more deeply with your sources beyond just grabbing a relevant quotation and moving on. 
+	* Your bibliography should use a citation standard (MLA, Chicago, etc), but I'm not picky about which one. 
+	* Each entry in your bibliography should include 2+ sentences - one to summarize the resource, another to analyze it. Why is it useful? Why not? Who created it? Who is the audience? What makes it a reputable? If it's not reputable, why does it have value for your essay? 
+	* Your sources should include at least 2 academic sources (published in a scholarly journal or book). You should cast a wide net with your sources. Try old catalogs, newspaper articles, advertisements, exhibits, manuals, etc. 
+
+* *Engagement*: In addition to attending class and be an active participant, engagement for this assignment looks like:
+	* Presenting on your dead tech assignment in class
+	* Participating in the curation activity
+	* Drawing on ideas from our readings in your essay. 
+
+## Resources
+
+* [The Museum of Obsolete Media](https://obsoletemedia.org/)
+* [Dead Media Project](http://www.deadmedia.org/notes/index-numeric.html)
+* [Dead Media Archive](https://web.archive.org/web/20080905144106/http://www.cultureandcommunication.org/deadmedia)
+* [Media Archaeology Lab](https://www.mediaarchaeologylab.com/)
+* [Always Already New: Media, History, and the Data of Culture](https://library.memoryoftheworld.org/#/book/5edeffae-c343-4e07-8e08-271791feb9dc)
+* [Newspaper databases](https://libguides.wlu.edu/az/databases?t=4632) from the library
 
 
 
 # Assignment #2: Mapping the Hidden Systems in the Landscape
 
-In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 3, you will identify 4-5 sites of material technology in the landscape and document it for the course website. You'll place each site on a [map](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/) so we can see the fuller picture of your local infrastructure. Your documentation should include photos, video, and 50-100 words that address the following questions: 
-* What made you notice this site? 
-* Why did you select it? 
-* What’s happening? 
-* What is the technology at play? 
-* Who owns the land and who is being serviced? 
-* Who is benefiting and who is not? 
-* How can you find out more information about this site? 
-* What can’t you find and why? 
-
-Originally, this assignment was going to be a scavenger hunt through campus and Rockbridge County. Since most of you are no longer on campus, this map has new potential! But it means you'll have to conduct your own research and rely on local sources of information. I'll walk you through some of the options in the video for this assignment, but consider the following:
-* local newspapers
-* local property records
-* ask your family members or friends
-* local government meeting minutes or other documents
-
-Finally, go outside (if you can do so safely)! The goal of this assignment is to open your eyes to things in our surroundings that hidden in plain sight. 
-
-## Specs
-* On Slack, message me a Gmail address so I can share our Google Map with you. 
-* Identify 4-5 locations and place them on our Google Map. You will need to create a new layer with your name as the name of the layer. I've started to create a "type" category for the places, but you're welcome to add to that. In the description field, you can identify the site and include a link to your results on the course website. 
-* You will write 50-100 words on each location answering the questions above. You can include photos, screenshots, video, or links to your sources, but you're not required to include everything. 
-* Add your write-ups to a new page on the course website to live in the [Map section](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/). We'll see everyone's locations in one map, but you'll be able to click on each student's page to read more about the sites in their area. Follow the same [instructions](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/virtual.html#how-to-post-to-the-course-website) for posting on the course website as you did in Assignment #1. 
-* Turn in a link to your essay on Canvas for feedback. 
-
-Due May 15th at 11:59pm EST.
+Due Tuesday, May 13th by 11:59am
 {: .label .label-red }
 
-|Rubric|Points|
-|---|---|
-|Selection<br /> You thought carefully and creatively about the hidden sites of technology aroud you. | X|
-|Writing<br />You wrote with clarity about your locations. | X|
-|Map<br />You followed the conventions of our shared map. You created a layer in your name and are using the type field.| X|
-|Research<br /> You took your research skills to the next level by going beyond the first page of results on Google.|X|
-|Total|X|
+In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local community. Armed with knowledge from our readings and guests in Week 2, you will identify a physical location where material technology exists (and hides) in the landscape. Your entry about this location will be added to a [group map](https://www.google.com/maps/d/u/0/edit?mid=1hGHSpwYmkv8Ba5_Cxy0NUVP9R_Oa8C8&usp=sharing) so we can see a fuller picture of our local infrastructure.
+
+## Prompt: 
+
+* A 300-500 word description of the site that answers the following: 
+	* What is this? What is happening now or what was happening? 
+	* What is the technology at play? 
+	* Who owns the land and who is being serviced? 
+	* Who is benefiting and who is not? 
+	* How can you find out more information about this site? 
+	* What can’t you find and why? 
+	* What made you notice this site? 
+	* Why did you select it? 
+* Include photos and video and any sources you used to learn more.
+* Uploaded to Canvas on Tuesday, May 13 at 11:59am. 
+* You should also add a line to our [spreadsheet](https://docs.google.com/spreadsheets/d/1AmvZWV73yzWfWuPE6zMchCt5Lx-AuP-NOj2DOQx46H8/edit?usp=sharing) to populate the map. Us this as a way to track who is working on what. 
+
+## Skills
+
+* *Systems thinking*: In this assignment, you can demonstrate systems thinking by addressing the following questions:
+	* How does W&L fit into its community? 
+	* How can you connect the local to the global? 
+	* How does our local context shape the technology around us? 
+
+* *Engagement*: In addition to attending class and be an active participant, engagement for this assignment looks like:
+	* Asking a question of our guest speaker. 
+	* Creativity in selecting a site for the map. 
+	* Exercising your new research skills in finding information about your site.
+	* Sharing about your selected site in class.
+
+## Resources
+
+* [Rockbridge County GIS](https://www.webgis.net/va/Rockbridge/)
+* [Lexington City GIS](https://lexingtongis.timmons.com/#/)
+* [County committee minutes](https://www.co.rockbridge.va.us/AgendaCenter) and [Lexington city minutes](https://www.lexingtonva.gov/government/meeting-packets-audio)
+* [Vintage Aerial](https://vintageaerial.com/) and [Historic Aerials](https://www.historicaerials.com)
+* [W&L Digital Archive](https://digitalarchive.wlu.edu/)
+* Local history sources include: [Proceedings of the Rockbridge Historical Society](https://digitalarchive.wlu.edu/islandora/proceedings-rockbridge-historical-society), [Rockbridge Epilogues](https://www.historicrockbridge.org/), [
+* [Virginia Chronicle newspaper search](https://virginiachronicle.com/)
 
 
+# Assignment #3: Discussion Lead!
 
-# Assignment #3: New Metaphors Unessay
+Due May 14, 15, or 20 during class
+{: .label .label-red }
 
-In New Dark Age, Bridle calls for “new metaphors: a metalanguage for describing the world that complex systems have wrought.” For instance, we’ve learned the reasons why “cloud” is an insufficient metaphor for the physical network it represents. We’ve seen examples of other metaphors created by companies and theorists. And we've seen visualizations of these metaphors from artists and others (I like [Dan Nott's](https://dannott.com/portfolio/) personally). 
+Your turn to lead class! Since there are a few chapters in *New Dark Age* that we're not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for **one hour**. While you should plan to briefly cover the content of the chapter, I'm also very interested in the connections between this chapter and current events or topics that are present in your lives. You can ask your fellow students to do some additional reading before class. 
+
+The chapters to covered are:
+
+* 4 Calculation - computation, big data, statistic, science 
+* 7 Complicity - national security, global, surveillance 
+* 8 Conspiracy - conspiracy theories
+* 9 Concurrency - weird YouTube videos for kids
+
+## Prompt
+* Design and deliver a 50-60 minute lesson plan based in one assigned chapter from our core text. 
+* Submit 1 page lesson plan 24 hours before class time for feedback by Prof. Brooks via Canvas or in person. 
+* Keep summary/lecture of chapter to a minimum. 
+* Include discussion prompts and activities. 
+* Select at least one additional reading for your classmates. 
+
+## Skills
+* *Information Literacy*: In this assignment, you can demonstrate this skill by:
+	* Identifying and selecting a relevant, interesting reading(s). 
+	* Connecting the *New Dark Age* chapter to current events or phenomena. 
+	* Thinking critically about the sources used by Bridle or other authors.
+
+* *Meta-cognition*: In this assignment, you can demonstrate this skill by:
+	* Attending to how learning works in your lesson plan. 
+	* Considering how you as a student/citizen/future professional are situated within the context of the chapter.
+
+* *Engagement*: In this assignment, you can demonstrate this skill by: 
+	* Allowing all group members to have a chance to shine.
+	* Designing activities that fully engage your classmates in the learning process.
+
+## Resources:
+
+* [9 Alternatives to Lecturing](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/nine-alternatives-lecturing)
+* [Active Learning Techniques](https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/active-learning/getting-started-active-learning)
+* [Active Learning](https://cetl.uconn.edu/resources/design-your-course/teaching-and-learning-techniques/active-learning/)
+* [Kahoot](https://kahoot.com/) or [Poll Everywhere](https://www.polleverywhere.com)
+* [ResearchBuzz](https://researchbuzz.me) aggregates tech news
+* [Recompiler Magazine](https://recompilermag.com/)
+
+# Assignment #4: New Metaphors Unessay
+
+Due Thursday, May 22nd at 1:30pm
+{: .label .label-red }
+
+In *New Dark Age*, Bridle calls for “new metaphors: a metalanguage for describing the world that complex systems have wrought.” We’ve learned the reasons why “cloud” is an insufficient metaphor for the physical network it represents. We’ve seen examples of other metaphors created by companies and theorists. And we've seen visualizations of these metaphors from artists and others (I like [Dan Nott's](https://www.hiddensystems.net/excerpt) personally). 
 
 In this assignment, you will be challenged to come up with your own new metaphor for a modern technological artifact or phenomenon of your choosing. The form of this assignment will be the “[unessay](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay).” You will decide, with the help of the class, the best presentation for your new metaphor, so long as it is compelling and effective. While we don't do a formal proposal process, let's chat through your ideas as soon as you're ready. 
 
 Feeling uninspired? Check out these [examples](https://s18tot.ryancordell.org/assignments/unessay/) from a course called "Technologies of Text" by Prof. Ryan Cordell.
 
-## Specs: 
-* You are free to choose a topic on whatever interests or inspires you - the only limit is that it should be a new metaphor for technology. 
-* You are free to present it in any way you please. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? 
-* However, you must be able to capture your product in a way that can be experienced virtually and shared with the class. This can be through photos, video, audio, etc. Post your results on the course website as you've done for previous assignments, using the tag "unessay." 
-* Since normally I'd ask you to present your work in class, please provide a paragraph of explanation on your website post. Think about this as an artist's statement for your work. It should set some context for your work and describe your motivations for choosing this new metaphor.
-* There is a section in YuJa/Canvas to upload your unessays if it's in a file format that doesn't translate easily to the course website.
-* Turn in a link to your unessay post on Canvas for feedback. 
+## Prompt
+* Select a modern technological artifact or phenomenon and design a new metaphor for that thing. You are free to choose a topic on whatever interests or inspires you, though you will be asked to consult with Prof. Brooks just to check that you're in the right zone.
+* Present your new metaphor in a form that makes sense for you, your skills, and your metaphor. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? I will be sad if a five paragraph essay is what you come up with though.
+* You will present your unessay on the last day of class (5-7 minutes). 
 
-Due Friday 5/21 at 5:00pm EST
+## Skills
+* *Information literacy*: In this assignment, you can demonstrate this skill by:
+	* demonstrate engagement with other thinkers on your topic. 
+	* conduct research and use findings to create new knowledge in the form of your metaphor. 
+
+* *Systems thinking*: In this assignment, you can demonstrate this skill by: 
+	* considering the big and small, the short and the long.
+	* recognizing complexity of your topic. 
+	* "addresses the reality of a world in which people, politics, culture, and technology are utterly enmeshed." (Bridle 5)
+
+* *Meta-cognition*: In this assignment, you can demonstrate this skill by: 
+	* "embrace the unknowning" that is the limits of your own knowledge and what is knowable. 
+	* showing change in your thinking over time. 
+
+* *Engagement:* In this assignment, you can demonstrate this skill by: 
+	* Presenting clearly and concisely about your unessay.
+	* creatively choosing the form of your new metaphor. 
+
+
+## Resources:
+
+* [Campus Energy Use Dashboard](https://buildingos.com/s/washingtonandlee/storyboard1983/?chapterId=12863)
+* ["Footpath for the People? A Zine Companion to a Data Quilt about the Appalachian Trail" zine](https://zinebakery.com/redistro/FFTPzine)
+* [Play with your data](https://works.hcommons.org/records/6t6ag-2ag20)
+* [Critical Making in the Age of AI](https://www.fulcrum.org/epubs/ns064895z?locale=en#/6/2[opfcover]!/4/4/1:0)
+
+
+
+# Assignment #5: Reflection
+
+Due Friday 5/23 at 5:00pm 
 {: .label .label-red }
-
-* The rubric for this assignment is: how compelling and effective were you? Here's what create Prof. Daniel Paul O'Donnell says about this rubric:
-
-An unessay is compelling when it shows some combination of the following:
-
-* it is as interesting as its topic and approach allows
-* it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored)
-* it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented)
-
-In terms of presentation, an unessay is effective when it shows some combination of these attributes:
-
-* it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
-* it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
-* it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
-
-
-# Assignment #4: Reflection
 
 We covered a lot of ground in this course (and quickly!). This is your chance to process what you’ve learned. How has your relationship with technology changed? How do you see the world differently? Where do you see opportunities for agency and justice amidst our complex technological systems? Reflections should be 600-900 words. 
 
-## Specs: 
-* Your reflection will just be read by me (though I encourage you to share your thoughts with your classmates on Slack). 
-* Turn in a document in Canvas. 
+## Prompt
+* Turn in a 600-900 word piece of writing in Canvas.  
 * You should address some combination of the following questions:
 	* What did you learn in this course? What do you predict will stick with you in the coming months/years?
 	* Thinking back to a few weeks ago, how have you changed your view of technology? How has your own relationship with technology changed? In good or bad ways? 
 	* What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people? 
-	* How has this virtual classroom experience affected your ability to learn, especially for this topic? 
 
-Due Friday 5/21 at 5:00pm EST
-{: .label .label-red }
+## Skills
+* *Systems thinking*
+* *Meta-cognition*
+* *Engagement*
+
+
