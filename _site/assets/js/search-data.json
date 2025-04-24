@@ -1,14 +1,14 @@
 {"0": {
     "doc": "Assignments",
     "title": "Cognitive Skills + Grading",
-    "content": "This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We’ll discuss and reference these skills throughout the course. Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. Systems thinking . Meta-cognition. ",
+    "content": "This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We’ll discuss and reference these skills throughout the course. Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. (Adapted from the [ACRL Framework]https://www.ala.org/acrl/standards/ilframework) . “Systems thinking is a way of seeing and talking about reality that helps us better understand and work with systems to influence the quality of our lives.” (Daniel H. Kim) . Meta-cognition. ",
     "url": "/assignments/#cognitive-skills--grading",
     
     "relUrl": "/assignments/#cognitive-skills--grading"
   },"1": {
     "doc": "Assignments",
     "title": "Grading",
-    "content": "We will use an adapted version of Specifications Grading, an alternative grading system. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technology we’ll be using/learning this term, to reduce grade anxiety, and to fit with our condensed four-week schedule. If you’d like to learn more, here’s a resource from UN-Lincoln. Each assignment will be worth 4-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it’s on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you’ll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, . |   | #1 Dead Tech | #2 Mapping | #3 Discussion | #4 Unessay | #5 Reflection | . | Information literacy | X |   | X | X | X | . | Systems thinking |   | X |   | X | X | . | Meta-cognition |   |   | X | X | X | . | Engagement | X | X | X | X |   | . ",
+    "content": "We will use an adapted version of Specifications Grading, an alternative grading system. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technology we’ll be using/learning this term, to reduce grade anxiety, and to fit with our condensed four-week schedule. If you’d like to learn more, here’s a resource from UN-Lincoln. Each assignment will be worth 3-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it’s on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you’ll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, etc. Each assignment will have specific suggestions for ways to demonstrate the skill. Assignments descriptions are below, but will be turned in on Canvas. |   | #1 Dead Tech | #2 Mapping | #3 Discussion | #4 Unessay | #5 Reflection | . | Information literacy | X |   | X | X |   | . | Systems thinking |   | X |   | X | X | . | Meta-cognition |   |   | X | X | X | . | Engagement | X | X | X | X |   | . ",
     "url": "/assignments/#grading",
     
     "relUrl": "/assignments/#grading"
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Assignments",
     "title": "Resources:",
-    "content": ". | 9 Alternatives to Lecturing | Active Learning Techniques | Active Learning | Kahoot or Poll Everywhere | ResearchBuzz aggregates tech news | Recompiler Magazine | . ",
+    "content": ". | 9 Alternatives to Lecturing | Active Learning Techniques | Active Learning | Activities for Metacognition | Kahoot or Poll Everywhere | ResearchBuzz aggregates tech news | Recompiler Magazine | . ",
     "url": "/assignments/#resources-2",
     
     "relUrl": "/assignments/#resources-2"
@@ -120,7 +120,7 @@
   },"17": {
     "doc": "Assignments",
     "title": "Resources:",
-    "content": ". | Campus Energy Use Dashboard | “Footpath for the People? A Zine Companion to a Data Quilt about the Appalachian Trail” zine | Play with your data | Critical Making in the Age of AI | . ",
+    "content": ". | Campus Energy Use Dashboard | “Footpath for the People? A Zine Companion to a Data Quilt about the Appalachian Trail” zine | Play with your data | Critical Making in the Age of AI | Works by James Bridle - Scroll to see all projects! | . ",
     "url": "/assignments/#resources-3",
     
     "relUrl": "/assignments/#resources-3"
@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Assignments",
     "title": "Assignments",
-    "content": ". | Cognitive Skills + Grading . | Grading | . | Assignment #1: Dead Tech . | Prompt | Skills: | Resources | . | Assignment #2: Mapping the Hidden Systems in the Landscape . | Prompt: | Skills | Resources | . | Assignment #3: Discussion Lead! . | Prompt | Skills | Resources: | . | Assignment #4: New Metaphors Unessay . | Prompt | Skills | Resources: | . | Assignment #5: Reflection . | Prompt | Skills | . | . ",
+    "content": "assignment shortcuts . | Cognitive Skills + Grading . | Grading | . | Assignment #1: Dead Tech . | Prompt | Skills: | Resources | . | Assignment #2: Mapping the Hidden Systems in the Landscape . | Prompt: | Skills | Resources | . | Assignment #3: Discussion Lead! . | Prompt | Skills | Resources: | . | Assignment #4: New Metaphors Unessay . | Prompt | Skills | Resources: | . | Assignment #5: Reflection . | Prompt | Skills | . | . ",
     "url": "/assignments/",
     
     "relUrl": "/assignments/"
@@ -162,7 +162,7 @@
   },"23": {
     "doc": "Home",
     "title": "Contact",
-    "content": "Mackenzie Brooks // Associate Professor &amp; Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu . ",
+    "content": "Mackenzie Brooks // Professor &amp; Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu . ",
     "url": "/#contact",
     
     "relUrl": "/#contact"
@@ -189,152 +189,145 @@
     "relUrl": "/#policies"
   },"27": {
     "doc": "Home",
-    "title": "Grading",
-    "content": "Spec . ",
-    "url": "/#grading",
-    
-    "relUrl": "/#grading"
-  },"28": {
-    "doc": "Home",
     "title": "Accommodations",
     "content": "I am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your individual needs and the accommodation process. More information can be found at https://www.wlu.edu/disability-accommodations/undergraduate-accommodations. If you have already been approved for accommodations, please meet with me within the first two days of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam. ",
     "url": "/#accommodations",
     
     "relUrl": "/#accommodations"
-  },"29": {
+  },"28": {
     "doc": "Home",
     "title": "Plagiarism &amp; AI Policy",
-    "content": "All work in this course should be your own or properly attributed to sources used. For more info, check out the library’s guide to plagiarism. We will be discussing and potentially using generative AI tools in class. However, you may only use these tools when explicitly specified in the assignment or activity instructions and any use must be documented. This includes generative AI tools like ChatGPT, but also AI features within writing apps like Grammarly. Evidence of the use of generative AI will result in a failed assignment. Because listen, I want to hear your voice! I want to know what you think. I am much less interested in a paper that “sounds right” than one that is authentic to you and shows how you’re wrestling with a topic. ",
+    "content": "All work in this course should be your own with any sources properly attributed. For more info, check out the library’s guide to plagiarism. We will be discussing and potentially using generative AI tools in class. However, you may only use these tools when explicitly specified in the assignment or activity instructions and any use must be documented. This includes generative AI tools like ChatGPT, but also AI features within writing apps like Grammarly. Evidence of the use of generative AI will result in a failed assignment. Because listen, I want to hear your voice! I want to know what you think. I am much less interested in a paper that “sounds right” than one that is authentic to you and shows how you’re wrestling with a topic. ",
     "url": "/#plagiarism--ai-policy",
     
     "relUrl": "/#plagiarism--ai-policy"
-  },"30": {
+  },"29": {
     "doc": "Home",
     "title": "License",
     "content": ". This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ",
     "url": "/#license",
     
     "relUrl": "/#license"
-  },"31": {
+  },"30": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"32": {
+  },"31": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": "schedule shortcuts . | Schedule | Week 1 - Chasm + Computation . | Tuesday, April 29, 2025 | Wednesday, April 30, 2025 | Thursday, May 1, 2025 | . | Week 2 - Climate + Complexity . | Tuesday, May 6, 2025 | Wednesday, May 7, 2025 | Thursday, May 8, 2025 | . | Week 3 - Cognition + etc. | Tuesday, May 13, 2025 | Wednesday, May 14, 2025 | Thursday, May 15, 2025 | . | Week 4 - Cloud + Conclusions . | Tuesday, May 20, 2025 | Wednesday, May 21, 2025 | Thursday, May 22, 2025 | . | . ",
     "url": "/docs/schedule/",
     
     "relUrl": "/docs/schedule/"
-  },"33": {
+  },"32": {
     "doc": "Schedule",
     "title": "Week 1 - Chasm + Computation",
     "content": " ",
     "url": "/docs/schedule/#week-1---chasm--computation",
     
     "relUrl": "/docs/schedule/#week-1---chasm--computation"
-  },"34": {
+  },"33": {
     "doc": "Schedule",
     "title": "Tuesday, April 29, 2025",
-    "content": ". | Welcome, intros, etc. | Icebreaker: what is your earliest memory of the internet? | Five minute paper: What is the new dark age? | Opening lecture + discussion | Break | What is the internet?! + coding 101 | . Read for Wednesday: . | New Dark Age, chapter 1 | . ",
+    "content": ". | Welcome, intros, etc. | Icebreaker: what is your earliest memory of the internet? | Opening lecture + discussion | Five minute paper: What is the new dark age? | Break | What is the internet?! + coding 101 (upload link + [see your site!(https://mackenziekbrooks.info/dci271/)] | . Read for Wednesday: . | New Dark Age, chapter 1 | . ",
     "url": "/docs/schedule/#tuesday-april-29-2025",
     
     "relUrl": "/docs/schedule/#tuesday-april-29-2025"
-  },"35": {
+  },"34": {
     "doc": "Schedule",
     "title": "Wednesday, April 30, 2025",
-    "content": ". | Icebreaker generator | Discuss chapter 1 | Introduce Assignment #1: Dead Tech | . For Thursday: . | Read New Dark Age, chapter 2 | Do some initial brainstorming and research for your essay topic. | . ",
+    "content": ". | Icebreaker generator | Course charter | Discuss chapter 1 | Discuss core cognitive skills | Introduce Assignment #1: Dead Tech | . For Thursday: . | Read New Dark Age, chapter 2 | Do some brainstorming and research for your essay topic. | . ",
     "url": "/docs/schedule/#wednesday-april-30-2025",
     
     "relUrl": "/docs/schedule/#wednesday-april-30-2025"
-  },"36": {
+  },"35": {
     "doc": "Schedule",
     "title": "Thursday, May 1, 2025",
-    "content": ". | Discuss chapter 2 | Assignment #1 research + work | . Due . Assignment #1 due Tuesday, May 6 by 11:59am. Read for Tuesday: . | New Dark Age, chapter 5 | . ",
+    "content": ". | Discuss chapter 2 | Assignment #1 research + work | . Due . Assignment #1 due Tuesday, May 6 by 11:59am. For Tuesday: . | New Dark Age, chapter 5 | Brainstorm some questions for our guest speaker, W&amp;L CTO David Saacke. | . ",
     "url": "/docs/schedule/#thursday-may-1-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-1-2025"
-  },"37": {
+  },"36": {
     "doc": "Schedule",
     "title": "Week 2 - Climate + Complexity",
     "content": " ",
     "url": "/docs/schedule/#week-2---climate--complexity",
     
     "relUrl": "/docs/schedule/#week-2---climate--complexity"
-  },"38": {
+  },"37": {
     "doc": "Schedule",
     "title": "Tuesday, May 6, 2025",
-    "content": ". | Assignment #1 sharing + curation activity (don’t forget to bring 4 copies of a picture of your dead tech) | Discuss New Dark Age, chapter 5 | GUEST LECTURE: 3:15-4:30 CTO David Saacke to give tour of RAP Center on W&amp;L Campus. | . ",
+    "content": ". | Assignment #1 sharing + curation activity (don’t forget to bring 4 copies of a picture of your dead tech) | Discuss New Dark Age, chapter 5 | GUEST LECTURE: 3:15-4:30 CTO David Saacke to give tour of RAP Center on W&amp;L Campus. | . Read for Wednesday: . | Warning: Do Not Dig’: Negotiating the Visibility of Critical Infrastructures | . ",
     "url": "/docs/schedule/#tuesday-may-6-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-6-2025"
-  },"39": {
+  },"38": {
     "doc": "Schedule",
     "title": "Wednesday, May 7, 2025",
     "content": ". | Discuss readings + New Dark Age, chapter 5 | Introduce Assignment #2 | Train tour? Mural? | . Read for Tuesday: . New Dark Age, chapter 3 . ",
     "url": "/docs/schedule/#wednesday-may-7-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-7-2025"
-  },"40": {
+  },"39": {
     "doc": "Schedule",
     "title": "Thursday, May 8, 2025",
     "content": ". | Discuss chapter 3 | Assignment #2 work | Introduce Assignment #3 + signups | Visit from Ginny Johnson, Boxerwood/COREworks at 3pm | . Due . Assignment #2 due Tuesday, May 13 by 11:59am. Read for Tuesday: . New Dark Age, chapter 6 . ",
     "url": "/docs/schedule/#thursday-may-8-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-8-2025"
-  },"41": {
+  },"40": {
     "doc": "Schedule",
     "title": "Week 3 - Cognition + etc.",
     "content": " ",
     "url": "/docs/schedule/#week-3---cognition--etc",
     
     "relUrl": "/docs/schedule/#week-3---cognition--etc"
-  },"42": {
+  },"41": {
     "doc": "Schedule",
     "title": "Tuesday, May 13, 2025",
     "content": ". | Share out on Assignment #2 | AI/ML lecture + chapter 6 discussion | Chat about Assignment #3. | . ",
     "url": "/docs/schedule/#tuesday-may-13-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-13-2025"
-  },"43": {
+  },"42": {
     "doc": "Schedule",
     "title": "Wednesday, May 14, 2025",
     "content": ". | Group 1 discussion leaders | Intro Assignment #4: Unessay | . ",
     "url": "/docs/schedule/#wednesday-may-14-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-14-2025"
-  },"44": {
+  },"43": {
     "doc": "Schedule",
     "title": "Thursday, May 15, 2025",
     "content": ". | Group 2 discussion leaders | Assignment #4 proposal + brainstorming | . ",
     "url": "/docs/schedule/#thursday-may-15-2025",
     
     "relUrl": "/docs/schedule/#thursday-may-15-2025"
-  },"45": {
+  },"44": {
     "doc": "Schedule",
     "title": "Week 4 - Cloud + Conclusions",
     "content": " ",
     "url": "/docs/schedule/#week-4---cloud--conclusions",
     
     "relUrl": "/docs/schedule/#week-4---cloud--conclusions"
-  },"46": {
+  },"45": {
     "doc": "Schedule",
     "title": "Tuesday, May 20, 2025",
     "content": ". | Group 3 discussion leaders | Group 4 discussion leaders | Unessay work | . ",
     "url": "/docs/schedule/#tuesday-may-20-2025",
     
     "relUrl": "/docs/schedule/#tuesday-may-20-2025"
-  },"47": {
+  },"46": {
     "doc": "Schedule",
     "title": "Wednesday, May 21, 2025",
     "content": ". | Discuss New Dark Age, Chapter 10 | Unessay work | . Due . Assignment #4 due Thursday, May 22, at 11:59pm. ",
     "url": "/docs/schedule/#wednesday-may-21-2025",
     
     "relUrl": "/docs/schedule/#wednesday-may-21-2025"
-  },"48": {
+  },"47": {
     "doc": "Schedule",
     "title": "Thursday, May 22, 2025",
     "content": ". | Last day! | Present unessays | . Due . Assignment #4 due Friday, May 23 by 11:59pm. ",

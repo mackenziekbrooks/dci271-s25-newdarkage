@@ -21,10 +21,10 @@ nav_order: 3
 
 * Welcome, intros, etc.
 * Icebreaker: what is your earliest memory of the internet?
-* Five minute paper: What is the new dark age? 
 * Opening lecture + discussion
+* Five minute paper: What is the new dark age? 
 * Break 
-* What is the internet?! + coding 101 
+* What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!(https://mackenziekbrooks.info/dci271/)]
 
 Read for Wednesday:
 {: .label .label-green }
@@ -33,14 +33,16 @@ Read for Wednesday:
 ## Wednesday, April 30, 2025
 
 * [Icebreaker generator](https://mackenziekbrooks.github.io/icebreaker-generator/)
+* Course charter
 * Discuss chapter 1
+* Discuss core cognitive skills
 * Introduce [Assignment #1: Dead Tech](../../assignments/#assignment-1-dead-tech)
 
 For Thursday:
 {: .label .label-green }
 
 * Read New Dark Age, chapter 2
-* Do some initial brainstorming and research for your essay topic. 
+* Do some brainstorming and research for your essay topic. 
 
 
 ## Thursday, May 1, 2025
@@ -52,9 +54,10 @@ Due
 {: .label .label-red } 
 **Assignment #1 due Tuesday, May 6 by 11:59am.**
 
-Read for Tuesday:
+For Tuesday:
 {: .label .label-green }
 * New Dark Age, chapter 5
+* Brainstorm some questions for our guest speaker, W&L CTO David Saacke.
 
 # Week 2 - Climate + Complexity
 
@@ -63,6 +66,9 @@ Read for Tuesday:
 * Discuss New Dark Age, chapter 5
 * GUEST LECTURE: 3:15-4:30 CTO David Saacke to give tour of RAP Center on W&L Campus. 
 
+Read for Wednesday:
+{: .label .label-green }
+* [Warning: Do Not Dig’: Negotiating the Visibility of Critical Infrastructures](https://journals.sagepub.com/doi/10.1177/1470412911430465)
 
 ## Wednesday, May 7, 2025
 

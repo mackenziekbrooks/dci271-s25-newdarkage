@@ -6,18 +6,24 @@ description:
 permalink: assignments/
 ---
 
+<details  markdown="block">
+  <summary>
+    assignment shortcuts
+  </summary>
 1. TOC
 {:toc}
+</details>
 
 # Cognitive Skills + Grading
 
 This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We'll discuss and reference these skills throughout the course. 
 
 {: .highlight }
-Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning.
+Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. (Adapted from the [ACRL Framework]https://www.ala.org/acrl/standards/ilframework)
 
 {: .highlight }
-Systems thinking
+"Systems thinking is a way of seeing and talking about reality that helps us better understand and work with systems to influence the quality of our lives." (Daniel H. Kim)
+
 
 {: .highlight }
 Meta-cognition. 
@@ -26,10 +32,10 @@ Meta-cognition.
 
 We will use an adapted version of *Specifications Grading*, an alternative grading system. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technology we'll be using/learning this term, to reduce grade anxiety, and to fit with our condensed four-week schedule. If you'd like to learn more, here's [a resource from UN-Lincoln](https://teaching.unl.edu/resources/alternative-grading/specification-grading/).
 
-Each assignment will be worth 4-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it's on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you'll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, 
+Each assignment will be worth 3-6 points. You will receive 1 point for turning in the assignment and meeting the prompt (meaning it's on time and it fulfills the mechanics of what is being asked). You will receive 1 point for evidence of each cognitive skill that is mapped to the assignment (see table below). Finally, you'll receive up to 2 engagement points. 1 point for attending and participating in class that week and another for presenting on your assignments, engaging with course readings and discussion, etc. Each assignment will have specific suggestions for ways to demonstrate the skill. Assignments descriptions are below, but will be turned in on Canvas. 
 
 ||#1 Dead Tech|#2 Mapping|#3 Discussion|#4 Unessay|#5 Reflection|
-|Information literacy|X||X|X|X|
+|Information literacy|X||X|X||
 |Systems thinking||X||X|X|
 |Meta-cognition|||X|X|X|
 |Engagement|X|X|X|X||
@@ -158,6 +164,7 @@ The chapters to covered are:
 * [9 Alternatives to Lecturing](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/nine-alternatives-lecturing)
 * [Active Learning Techniques](https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/active-learning/getting-started-active-learning)
 * [Active Learning](https://cetl.uconn.edu/resources/design-your-course/teaching-and-learning-techniques/active-learning/)
+* [Activities for Metacognition](https://resources.depaul.edu/teaching-commons/teaching-guides/learning-activities/Pages/activities-for-metacognition.aspx)
 * [Kahoot](https://kahoot.com/) or [Poll Everywhere](https://www.polleverywhere.com)
 * [ResearchBuzz](https://researchbuzz.me) aggregates tech news
 * [Recompiler Magazine](https://recompilermag.com/)
@@ -203,6 +210,7 @@ Feeling uninspired? Check out these [examples](https://s18tot.ryancordell.org/as
 * ["Footpath for the People? A Zine Companion to a Data Quilt about the Appalachian Trail" zine](https://zinebakery.com/redistro/FFTPzine)
 * [Play with your data](https://works.hcommons.org/records/6t6ag-2ag20)
 * [Critical Making in the Age of AI](https://www.fulcrum.org/epubs/ns064895z?locale=en#/6/2[opfcover]!/4/4/1:0)
+* [Works by James Bridle](https://jamesbridle.com/works) - Scroll to see all projects!
 
 
 

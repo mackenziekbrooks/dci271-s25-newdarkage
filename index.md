@@ -12,8 +12,7 @@ Are we living in a "New Dark Age?” Artist and writer James Bridle argues that 
 
 # Contact
 
-Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/her/hers) // brooksm [at]
-wlu.edu
+Mackenzie Brooks // Professor & Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu
 
 # Learning Objectives 
 * Students will research historical and modern technological systems 
@@ -31,11 +30,6 @@ If you have any trouble finding this book, please let me know!
  
 # Policies 
 
-## Grading
-
-Spec
-
-
 ## Accommodations
 I am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your individual needs and the accommodation process. More information can be found at https://www.wlu.edu/disability-accommodations/undergraduate-accommodations.
 
@@ -44,7 +38,7 @@ If you have already been approved for accommodations, please meet with me within
 
 ## Plagiarism & AI Policy
 
-All work in this course should be your own or properly attributed to sources used. For more info, check out [the library's guide to plagiarism](http://libguides.wlu.edu/plagiarism).
+All work in this course should be your own with any sources properly attributed. For more info, check out [the library's guide to plagiarism](http://libguides.wlu.edu/plagiarism).
 
 We will be discussing and potentially using generative AI tools in class. However, you may only use these tools when explicitly specified in the assignment or activity instructions and any use must be documented. This includes generative AI tools like ChatGPT, but also AI features within writing apps like Grammarly. Evidence of the use of generative AI will result in a failed assignment. 
 
