@@ -12,7 +12,9 @@ Are we living in a "New Dark Age?” Artist and writer James Bridle argues that 
 
 # Contact
 
-Mackenzie Brooks // Professor & Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu
+Mackenzie Brooks // Professor & Digital Humanities Librarian // (she/her/hers) // brooksm [at] wlu.edu // Leyburn 218
+
+Office hours: by arrangement. I'm happy to meet with you, just let me know and we can schedule something. 
 
 # Learning Objectives 
 * Students will research historical and modern technological systems 

@@ -19,14 +19,14 @@ permalink: assignments/
 This course will focus on developing three essential cognitive skills: information literacy, systems thinking, and meta-cognition. Each assignment will ask you to demonstrate some combination of these skills. Our grading system will reflect your ability to 1) meet the prompt and 2) display evidence of these skills. We'll discuss and reference these skills throughout the course. 
 
 {: .highlight }
-Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. (Adapted from the [ACRL Framework]https://www.ala.org/acrl/standards/ilframework)
+Information Literacy is the reflective discovery of information, the understanding of how information is produced and valued, the use of information in creating new knowledge, and the ethical participation in communities of learning. (Adapted from the [ACRL Framework](https://www.ala.org/acrl/standards/ilframework))
 
 {: .highlight }
-"Systems thinking is a way of seeing and talking about reality that helps us better understand and work with systems to influence the quality of our lives." (Daniel H. Kim)
+"Systems thinking is a way of seeing and talking about reality that helps us better understand and work with systems to influence the quality of our lives." (Daniel H. Kim) In contrast to a linear perspective, systems thinking understands that there a lot of pieces at play in any situation/system that can all have different effects. 
 
 
 {: .highlight }
-Meta-cognition. 
+Meta-cognition is thinking about thinking. Specifically, "thinking about the contents and processes of one's mind." (Winne and Azvedo) It's a key part of the learning process to reflect what's happening during/after the experience. 
 
 ## Grading 
 
@@ -74,7 +74,9 @@ In order to understand our present, let’s look back at the tech that has shape
 * [Dead Media Archive](https://web.archive.org/web/20080905144106/http://www.cultureandcommunication.org/deadmedia)
 * [Media Archaeology Lab](https://www.mediaarchaeologylab.com/)
 * [Always Already New: Media, History, and the Data of Culture](https://library.memoryoftheworld.org/#/book/5edeffae-c343-4e07-8e08-271791feb9dc)
+* [Collectors Weekly](https://www.collectorsweekly.com/)
 * [Newspaper databases](https://libguides.wlu.edu/az/databases?t=4632) from the library
+* [W&L Digital Archive](https://digitalarchive.wlu.edu/) for historical Ring-tum Phi, etc. 
 
 
 

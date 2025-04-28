@@ -24,7 +24,7 @@ nav_order: 3
 * Opening lecture + discussion
 * Five minute paper: What is the new dark age? 
 * Break 
-* What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!(https://mackenziekbrooks.info/dci271/)]
+* What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!](https://mackenziekbrooks.info/dci271/)]
 
 Read for Wednesday:
 {: .label .label-green }
@@ -35,7 +35,10 @@ Read for Wednesday:
 * [Icebreaker generator](https://mackenziekbrooks.github.io/icebreaker-generator/)
 * Course charter
 * Discuss chapter 1
-* Discuss core cognitive skills
+* Core cognitive skills activity
+  * [Information Literacy](https://www.ala.org/acrl/standards/ilframework)
+  * [Systems thinking](https://thesystemsthinker.com/wp-content/uploads/2016/03/Introduction-to-Systems-Thinking-IMS013Epk.pdf)
+  * [Meta-cognition](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B670B062FF21016A7CFEB4EACB81D72C)
 * Introduce [Assignment #1: Dead Tech](../../assignments/#assignment-1-dead-tech)
 
 For Thursday:
@@ -50,11 +53,11 @@ For Thursday:
 * Discuss chapter 2
 * Assignment #1 research + work
 
-Due
+Due on Tuesday
 {: .label .label-red } 
 **Assignment #1 due Tuesday, May 6 by 11:59am.**
 
-For Tuesday:
+Prep for Tuesday:
 {: .label .label-green }
 * New Dark Age, chapter 5
 * Brainstorm some questions for our guest speaker, W&L CTO David Saacke.
