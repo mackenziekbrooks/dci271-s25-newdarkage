@@ -40,6 +40,19 @@ Each assignment will be worth 3-6 points. You will receive 1 point for turning i
 |Meta-cognition|||X|X|X|
 |Engagement|X|X|X|X||
 
+| Letter Grade | Range  |
+|--------------|--------|
+| A            | 21–22  |
+| A-           | 19–20  |
+| B+           | 17–18  |
+| B            | 15–16  |
+| B-           | 13–14  |
+| C+           | 11–12  |
+| C            | 9–10   |
+| C-           | 7–8    |
+| D+           | 5–6    |
+| D            | 3–4    |
+| D-           | 0–2    |
 
 # Assignment #1: Dead Tech 
 
