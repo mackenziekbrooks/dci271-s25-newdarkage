@@ -24,7 +24,7 @@ nav_order: 3
 * Opening lecture + discussion
 * Five minute paper: What is the new dark age? 
 * Break 
-* What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!](https://mackenziekbrooks.info/dci271/)]
+* What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!](https://mackenziekbrooks.info/dci271/))
 
 Read for Wednesday:
 {: .label .label-green }
@@ -55,7 +55,7 @@ For Thursday:
 
 Due on Tuesday
 {: .label .label-red } 
-**Assignment #1 due Tuesday, May 6 by 11:59am.**
+**Assignment #1 due Tuesday, May 6 by 11:59am.** Don't forget to bring 4 copies of an image of the object on paper. 
 
 Prep for Tuesday:
 {: .label .label-green }
