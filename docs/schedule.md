@@ -22,6 +22,7 @@ nav_order: 3
 * Welcome, intros, etc.
 * Icebreaker: what is your earliest memory of the internet?
 * Opening lecture + discussion
+* [Slides](https://docs.google.com/presentation/d/1J_K-ssNfrsmNeFlQrAGwWrr4GaBy-hgtPFi6pYpxZIs/edit?usp=sharing)
 * Five minute paper: What is the new dark age? 
 * Break 
 * What is the internet?! + coding 101 ([upload link](https://wlu.app.box.com/f/096d822840794c3aafd4521c7550d622) + [see your site!](https://mackenziekbrooks.info/dci271/))
@@ -33,7 +34,7 @@ Read for Wednesday:
 ## Wednesday, April 30, 2025
 
 * [Icebreaker generator](https://mackenziekbrooks.github.io/icebreaker-generator/)
-* Course charter
+* [Course charter](https://wlu.box.com/s/7acleverb51qev3nw02sa0r1dlfh69ns)
 * Discuss chapter 1
 * Core cognitive skills activity
   * [Information Literacy](https://www.ala.org/acrl/standards/ilframework)
