@@ -41,6 +41,7 @@ Read for Wednesday:
   * [Systems thinking](https://thesystemsthinker.com/wp-content/uploads/2016/03/Introduction-to-Systems-Thinking-IMS013Epk.pdf)
   * [Meta-cognition](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B670B062FF21016A7CFEB4EACB81D72C)
 * Introduce [Assignment #1: Dead Tech](../../assignments/#assignment-1-dead-tech)
+* [Slides](https://docs.google.com/presentation/d/1YboSw6w8kFNjRQSH8oaSgDfQ2v13ivFRVQJMczpUqIM/edit?usp=sharing)
 
 For Thursday:
 {: .label .label-green }
@@ -53,6 +54,7 @@ For Thursday:
 
 * Discuss chapter 2
 * Assignment #1 research + work
+* [Slides](https://docs.google.com/presentation/d/1npJ4cMfmcPvPyiPgfbvcWGiIlGaEiDDWcy7GRfRbrCA/edit?usp=sharing)
 
 Due on Tuesday
 {: .label .label-red } 
