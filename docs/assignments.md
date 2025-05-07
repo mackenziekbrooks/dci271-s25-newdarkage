@@ -135,7 +135,7 @@ In chapter 5, Bridle writes about psycho-geography and his search for “the pla
 * [County committee minutes](https://www.co.rockbridge.va.us/AgendaCenter) and [Lexington city minutes](https://www.lexingtonva.gov/government/meeting-packets-audio)
 * [Vintage Aerial](https://vintageaerial.com/) and [Historic Aerials](https://www.historicaerials.com)
 * [W&L Digital Archive](https://digitalarchive.wlu.edu/)
-* Local history sources include: [Proceedings of the Rockbridge Historical Society](https://digitalarchive.wlu.edu/islandora/proceedings-rockbridge-historical-society), [Rockbridge Epilogues](https://www.historicrockbridge.org/), [
+* Local history sources include: [Proceedings of the Rockbridge Historical Society](https://digitalarchive.wlu.edu/islandora/proceedings-rockbridge-historical-society), [Rockbridge Epilogues](https://www.historicrockbridge.org/)
 * [Virginia Chronicle newspaper search](https://virginiachronicle.com/)
 
 

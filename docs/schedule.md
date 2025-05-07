@@ -71,6 +71,7 @@ Prep for Tuesday:
 * Assignment #1 sharing + curation activity (don't forget to bring 4 copies of a picture of your dead tech)
 * Discuss New Dark Age, chapter 5
 * GUEST LECTURE: 3:15-4:30 CTO David Saacke to give tour of RAP Center on W&L Campus. 
+* [Day 4 slides](https://docs.google.com/presentation/d/1c4-4-vjHlpr_MHFxV_CEnhJFWypiUDzqiw3RjkONWX8/edit?usp=sharing)
 
 Read for Wednesday:
 {: .label .label-green }
@@ -80,7 +81,8 @@ Read for Wednesday:
 
 * Discuss readings + New Dark Age, chapter 5
 * Introduce Assignment #2
-* Train tour? Mural? 
+* Map activity 
+* Campus train tour with Byron Faidley (Digital Collections Manager) 
 
 Read for Tuesday:
 {: .label .label-green }
