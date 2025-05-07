@@ -113,7 +113,7 @@ In chapter 5, Bridle writes about psycho-geography and his search for “the pla
 	* Why did you select it? 
 * Include photos and video and any sources you used to learn more.
 * Uploaded to Canvas on Tuesday, May 13 at 11:59am. 
-* You should also add a line to our [spreadsheet](https://docs.google.com/spreadsheets/d/1AmvZWV73yzWfWuPE6zMchCt5Lx-AuP-NOj2DOQx46H8/edit?usp=sharing) to populate the map. Us this as a way to track who is working on what. 
+* You should also add a line to our [spreadsheet](https://docs.google.com/spreadsheets/d/1AmvZWV73yzWfWuPE6zMchCt5Lx-AuP-NOj2DOQx46H8/edit?usp=sharing) to populate the map. Use this as a way to track who is working on what. 
 
 ## Skills
 
@@ -144,7 +144,9 @@ In chapter 5, Bridle writes about psycho-geography and his search for “the pla
 Due May 14, 15, or 20 during class
 {: .label .label-red }
 
-Your turn to lead class! Since there are a few chapters in *New Dark Age* that we're not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for **one hour**. While you should plan to briefly cover the content of the chapter, I'm also very interested in the connections between this chapter and current events or topics that are present in your lives. You can ask your fellow students to do some additional reading before class. 
+Your turn to lead class! Since there are a few chapters in *New Dark Age* that we're not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for **50-60 minutes**. While you should plan to briefly cover the content of the chapter, I'm also very interested in the connections between this chapter and current events or topics that are present in your lives. You can ask your fellow students to do some additional reading before class. 
+
+[Chapter signup](https://wlu.app.box.com/notes/1855322733315)
 
 The chapters to covered are:
 
