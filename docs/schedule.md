@@ -83,6 +83,7 @@ Read for Wednesday:
 * Introduce Assignment #2
 * Map activity 
 * Campus train tour with Byron Faidley (Digital Collections Manager) 
+* [Slides](https://docs.google.com/presentation/d/1pUwOpmC3oVxPaF1R7so_fP_4OUp3C3mr2iUA4OzEKE4/edit?usp=sharing) 
 
 Read for Tuesday:
 {: .label .label-green }
@@ -94,6 +95,7 @@ New Dark Age, chapter 3
 * Assignment #2 work 
 * Introduce Assignment #3 + signups 
 * Visit from Ginny Johnson, Boxerwood/COREworks at 3pm
+* [Slides](https://docs.google.com/presentation/d/1teDxzmbiDWlRNvPeoOThA4DfUm07PVWJi-yluNiVr0g/edit?usp=sharing)
 
 Due
 {: .label .label-red } 

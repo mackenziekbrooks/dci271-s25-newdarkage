@@ -137,6 +137,7 @@ In chapter 5, Bridle writes about psycho-geography and his search for “the pla
 * [W&L Digital Archive](https://digitalarchive.wlu.edu/)
 * Local history sources include: [Proceedings of the Rockbridge Historical Society](https://digitalarchive.wlu.edu/islandora/proceedings-rockbridge-historical-society), [Rockbridge Epilogues](https://www.historicrockbridge.org/)
 * [Virginia Chronicle newspaper search](https://virginiachronicle.com/)
+* [Cardinal News](https://cardinalnews.org/) - for ideas, stick to Rockbridge County though
 
 
 # Assignment #3: Discussion Lead!
@@ -144,13 +145,13 @@ In chapter 5, Bridle writes about psycho-geography and his search for “the pla
 Due May 14, 15, or 20 during class
 {: .label .label-red }
 
-Your turn to lead class! Since there are a few chapters in *New Dark Age* that we're not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for **50-60 minutes**. While you should plan to briefly cover the content of the chapter, I'm also very interested in the connections between this chapter and current events or topics that are present in your lives. You can ask your fellow students to do some additional reading before class. 
+Your turn to lead class! Since there are a few chapters in *New Dark Age* that we're not covering in depth, your job for Assignment #3 is to work together with your group/table to present and lead class activities and discussion based on the chapter for **50-60 minutes**. While you should plan to briefly cover the content of the chapter, I'm also very interested in the connections between this chapter and current events or topics that are present in your lives. You will ask your fellow students to do some additional reading before class. 
 
 [Chapter signup](https://wlu.app.box.com/notes/1855322733315)
 
 The chapters to covered are:
 
-* 4 Calculation - computation, big data, statistic, science 
+* 4 Calculation - computation, big data, statistics, science 
 * 7 Complicity - national security, global, surveillance 
 * 8 Conspiracy - conspiracy theories
 * 9 Concurrency - weird YouTube videos for kids
@@ -185,6 +186,8 @@ The chapters to covered are:
 * [Kahoot](https://kahoot.com/) or [Poll Everywhere](https://www.polleverywhere.com)
 * [ResearchBuzz](https://researchbuzz.me) aggregates tech news
 * [Recompiler Magazine](https://recompilermag.com/)
+* [404 Media](https://www.404media.co/) tech journalism
+* 
 
 # Assignment #4: New Metaphors Unessay
 
