@@ -93,7 +93,7 @@ New Dark Age, chapter 3
 
 * Discuss chapter 3
 * Assignment #2 work 
-* Introduce Assignment #3 + signups 
+* Introduce Assignment #3 + [signups](https://docs.google.com/forms/d/e/1FAIpQLSfX-NuDlISKLIy5lkLl_xNMP4t_d1JQvi0sUgvB7lJFkuYCKg/viewform)
 * Visit from Ginny Johnson, Boxerwood/COREworks at 3pm
 * [Slides](https://docs.google.com/presentation/d/1teDxzmbiDWlRNvPeoOThA4DfUm07PVWJi-yluNiVr0g/edit?usp=sharing)
 
