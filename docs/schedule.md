@@ -111,11 +111,16 @@ New Dark Age, chapter 6
 
 * Share out on Assignment #2
 * AI/ML lecture + chapter 6 discussion
-* Chat about Assignment #3. 
+* Chat about Assignment #3.
+* [Slides](https://docs.google.com/presentation/d/1OGcV_tRPPvX-riJBmReql445Sw1PDUvjmBj-DMTPzBk/edit?usp=sharing) 
+
+Read for Tuesday:
+{: .label .label-green }
+New Dark Age, chapter 4
 
 ## Wednesday, May 14, 2025
 
-* Group 1 discussion leaders
+* Group 1 discussion leaders on Chapter 4
 * Intro Assignment #4: Unessay
 
 ## Thursday, May 15, 2025
