@@ -126,7 +126,13 @@ New Dark Age, chapter 4
 ## Thursday, May 15, 2025
 
 * Group 2 discussion leaders
-* Assignment #4 proposal + brainstorming
+  * [Reading 1](https://www.vox.com/recode/22412232/youtube-kids-autoplay) and [Reading 2](https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/)
+* Assignment #4 peer review
+  * What are your ideas? 
+  * What parts are you excited about? What parts are you unsure about?
+  * What questions do you have?
+* Assignment #4 [proposal](https://docs.google.com/forms/d/e/1FAIpQLScwQJbSohnwrqaq5Iq_yVH21IgN9FIPkkT6SUg1spc718UKYQ/viewform?usp=dialog) 
+
 
 # Week 4 - Cloud + Conclusions
 
@@ -139,6 +145,7 @@ New Dark Age, chapter 4
 ## Wednesday, May 21, 2025
 
 * Discuss New Dark Age, Chapter 10 
+* Course evaluation
 * Unessay work 
 
 Due
