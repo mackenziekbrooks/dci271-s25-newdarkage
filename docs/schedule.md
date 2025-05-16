@@ -122,6 +122,7 @@ New Dark Age, chapter 4
 
 * Group 1 discussion leaders on Chapter 4
 * Intro Assignment #4: Unessay
+* [Slides](https://docs.google.com/presentation/d/1dC1tl9TbGeFYPx04Pj56wf8MFj_9a1fU7JrXYchh0Ug/edit?usp=sharing)
 
 ## Thursday, May 15, 2025
 
