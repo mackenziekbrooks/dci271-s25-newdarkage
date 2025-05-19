@@ -245,8 +245,10 @@ We covered a lot of ground in this course (and quickly!). This is your chance to
 * Turn in a 600-900 word piece of writing in Canvas.  
 * You should address some combination of the following questions:
 	* What did you learn in this course? What do you predict will stick with you in the coming months/years?
+	* How did you improve at the skills we emphasized in this class? What will be helpful in future classes, other endeavors? 
 	* Thinking back to a few weeks ago, how have you changed your view of technology? How has your own relationship with technology changed? In good or bad ways? 
-	* What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people? 
+	* What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people?
+
 
 ## Skills
 * *Systems thinking*

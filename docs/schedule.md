@@ -137,9 +137,13 @@ New Dark Age, chapter 4
 
 # Week 4 - Cloud + Conclusions
 
+Read for Tuesday:
+{: .label .label-green }
+New Dark Age, chapter 7 + 8
+
 ## Tuesday, May 20, 2025
 
-* Group 3 discussion leaders 
+* Group 3 discussion leaders
 * Group 4 discussion leaders
 * Unessay work 
 
