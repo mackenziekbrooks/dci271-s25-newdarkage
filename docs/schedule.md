@@ -145,22 +145,30 @@ New Dark Age, chapter 7 + 8
 
 * Group 3 discussion leaders
 * Group 4 discussion leaders
-* Unessay work 
+* Unessay work + peer review. Questions:
+  * What's your metaphor + topic + format?
+  * What working? What's not working (yet)? 
 
 ## Wednesday, May 21, 2025
 
 * Discuss New Dark Age, Chapter 10 
+* Wrap-up activities 
 * Course evaluation
-* Unessay work 
 
 Due
 {: .label .label-red } 
 **Assignment #4 due Thursday, May 22, at 11:59pm.**
+Please turn in some digital representation of your project, be it a link, a photo, a document, a short video/screen recording.
 
 ## Thursday, May 22, 2025
 
 * Last day!
-* Present unessays 
+* Present unessays. In 5 minutes, address the following:
+  * What is your metaphor + topic + format? 
+  * What inspired your choices?
+  * Why *this* format for your unessay? 
+  * What sources/thinkers did you lean on?
+  * If you had more time or other skills, how would your unessay look different? 
 
 Due
 {: .label .label-red } 
