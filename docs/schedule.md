@@ -153,6 +153,7 @@ New Dark Age, chapter 7 + 8
 
 * Discuss New Dark Age, Chapter 10 
 * Wrap-up activities 
+* [Slides](https://docs.google.com/presentation/d/1h68iciBaCjUWH9gsqI7-odD8G3_WEA9bq9pKDAbWIo4/edit?usp=sharing)
 * Course evaluation
 
 Due
