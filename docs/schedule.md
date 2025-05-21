@@ -165,10 +165,11 @@ Please turn in some digital representation of your project, be it a link, a phot
 * Last day!
 * Present unessays. In 5 minutes, address the following:
   * What is your metaphor + topic + format? 
-  * What inspired your choices?
+  * What inspired your choices? Why is this topic complex?
   * Why *this* format for your unessay? 
   * What sources/thinkers did you lean on?
-  * If you had more time or other skills, how would your unessay look different? 
+  * How has your thinking changed on this topic?
+  * If you had more time or other skills, how would your unessay look different?
 
 Due
 {: .label .label-red } 
